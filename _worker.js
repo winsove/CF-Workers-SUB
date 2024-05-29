@@ -21,8 +21,18 @@ trojan://Trojan@skk.moe:8443?security=tls&sni=cmtr-7lx.pages.dev&fp=randomized&t
 hhttps://3k.fxxk.dedyn.io/sub
 https://VLESS.fxxk.dedyn.io/auto
 https://alvless.filegear-sg.me/CMLiu
+https://3k.fxxk.dedyn.io/sub
+https://Trojan.fxxk.dedyn.io/auto
+https://VLESS.fxxk.dedyn.io/auto
+https://VMess.fxxk.dedyn.io/auto
+https://WARP.fxxk.dedyn.io/auto
+https://alvless.filegear-sg.me/CMLiu
+https://altrojan.filegear-sg.me/CMLiu
+https://sub.kaiche.tk/?token=auto
+http://allsub.king361.cf
+https://moistr.freenods.sbs/mianfeicf
+https://moist.freenods.sbs/Trojan
 https://warp.fxxk.dedyn.io/auto
-https://cmtr-7lx.pages.dev/Trojan
 https://neko-warp.nloli.xyz/neko_warp.yaml
 `
 
