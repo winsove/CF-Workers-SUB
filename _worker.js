@@ -32,7 +32,6 @@ https://sub.kaiche.tk/?token=auto
 http://allsub.king361.cf
 https://moistr.freenods.sbs/mianfeicf
 https://moist.freenods.sbs/Trojan
-https://WARP.fxxk.dedyn.io/sub?key=kAFzLh6ycIlvJN1ODOv/XNZj9joJqffhr9Bx8EPEr0I=
 https://warp.fxxk.dedyn.io/auto
 https://neko-warp.nloli.xyz/neko_warp.yaml
 `
