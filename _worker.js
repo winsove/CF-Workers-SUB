@@ -12,8 +12,6 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://cbca7bd1-aa6f-47ed-b365-b5a88fc46780@www.udemy.com:8080?encryption=none&security=none&sni=3kvl.mefcl666.workers.dev&fp=randomized&type=ws&host=3kvl.mefcl666.workers.dev&path=%2F%3Fed%3D2048#%E8%87%AA%E5%BB%BA4
-vless://d16c0936-57b4-49f3-80bb-a65b3394d10f@www.udemy.com:80?encryption=none&security=none&sni=cmvl.mefcl666.workers.dev&fp=randomized&type=ws&host=cmvl.mefcl666.workers.dev&path=%2F%3Fed%3D2560#%E8%87%AA%E5%BB%BA5
 vless://6be84efe-8af3-4941-9614-57d941ea65a4@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=vm.jellyjenna248.workers.dev&path=%2F%3Fed%3D2560#%E8%87%AA%E5%BB%BA1
 vless://cbca7bd1-aa6f-47ed-b365-b5a88fc46780@www.udemy.com:80?encryption=none&security=none&sni=3kvl.mefcl666.workers.dev&fp=randomized&type=ws&host=3kvl.mefcl666.workers.dev&path=%2F%3Fed%3D2048#%E8%87%AA%E5%BB%BA6
 trojan://trojan@www.visa.com.sg:8443?security=tls&sni=tp-4jj.pages.dev&fp=random&type=ws&host=tp-4jj.pages.dev&path=%2F%3Fed%3D2560#%E8%87%AA%E5%BB%BA9
