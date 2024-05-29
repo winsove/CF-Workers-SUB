@@ -12,26 +12,9 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://6be84efe-8af3-4941-9614-57d941ea65a4@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=vm.jellyjenna248.workers.dev&path=%2F%3Fed%3D2560#%E8%87%AA%E5%BB%BA1
-vless://cbca7bd1-aa6f-47ed-b365-b5a88fc46780@www.udemy.com:80?encryption=none&security=none&sni=3kvl.mefcl666.workers.dev&fp=randomized&type=ws&host=3kvl.mefcl666.workers.dev&path=%2F%3Fed%3D2048#%E8%87%AA%E5%BB%BA6
-trojan://trojan@www.visa.com.sg:8443?security=tls&sni=tp-4jj.pages.dev&fp=random&type=ws&host=tp-4jj.pages.dev&path=%2F%3Fed%3D2560#%E8%87%AA%E5%BB%BA9
-trojan://Trojan@skk.moe:8443?security=tls&sni=cmtr-7lx.pages.dev&fp=randomized&type=ws&host=cmtr-7lx.pages.dev&path=%2F%3Fed%3D2560#%E8%87%AA%E5%BB%BA10
-hhttps://3k.fxxk.dedyn.io/sub
-https://VLESS.fxxk.dedyn.io/auto
-https://alvless.filegear-sg.me/CMLiu
-https://3k.fxxk.dedyn.io/sub
-https://Trojan.fxxk.dedyn.io/auto
-https://VLESS.fxxk.dedyn.io/auto
-https://VMess.fxxk.dedyn.io/auto
+vless://b7a392e2-4ef0-4496-90bc-1c37bb234904@cf.090227.xyz:443?encryption=none&security=tls&sni=edgetunnel-2z2.pages.dev&fp=random&type=ws&host=edgetunnel-2z2.pages.dev&path=%2F%3Fed%3D2048#%E5%8A%A0%E5%85%A5%E6%88%91%E7%9A%84%E9%A2%91%E9%81%93t.me%2FCMLiussss%E8%A7%A3%E9%94%81%E6%9B%B4%E5%A4%9A%E4%BC%98%E9%80%89%E8%8A%82%E7%82%B9
+https://sub.xf.free.hr/auto
 https://WARP.fxxk.dedyn.io/auto
-https://alvless.filegear-sg.me/CMLiu
-https://altrojan.filegear-sg.me/CMLiu
-https://sub.kaiche.tk/?token=auto
-http://allsub.king361.cf
-https://moistr.freenods.sbs/mianfeicf
-https://moist.freenods.sbs/Trojan
-https://warp.fxxk.dedyn.io/auto
-https://neko-warp.nloli.xyz/neko_warp.yaml
 `
 
 let urls = [];
